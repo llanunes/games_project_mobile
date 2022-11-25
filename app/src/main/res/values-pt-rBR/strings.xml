@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">games</string>
+    <string name="welcome">Bem vindo!</string>
+    <string name="login">Login</string>
+    <string name="actionBar_game_list_title">Perfil!</string>
+    <string name="actionBar_game_register_title">Registre um Jogo!</string>
+    <string name="actionBar_game_register_user">Registre um Usuario Novo!</string>
+    <string name="description">Com o nosso aplicativo será muito mais fácil e divertido manter o controle dos seus games!</string>
+    <string name="remember">Lembrar-me</string>
+    <string name="your_email">Seu e-mail</string>
+    <string name="your_password">Sua senha</string>
+    <string name="enter">Entrar</string>
+    <string name="developed">Desenvolvido por DS2M</string>
+    <string name="new_account">Criar uma conta</string>
+    <string name="account">New account</string>
+    <string name="game_register_title">Novo Jogo!</string>
+    <string name="games">Games</string>
+    <string name="escolher_foto">Shall we choose a photo?</string>
+    <string name="dados_autenticacao">Authentication data</string>
+    <string name="dados_pessoais">Personal dates</string>
+    <string name="your_name_question">What is your name?</string>
+    <string name="your_city_question">What is your city?</string>
+    <string name="birth_date_question">What is your birth date?</string>
+    <string name="player_level_question">What is your player level?</string>
+    <string name="casual">Casual</string>
+    <string name="preferred_console_question">What is your preferred console?</string>
+    <string name="sex">Sexo:</string>
+    <string name="sex_masculine">Masculine</string>
+    <string name="sex_feminine">Feminine</string>
+    <string name="games_finished">Games Finished</string>
+    <string name="currently_playing">Currently Playing</string>
+    <string name="age">Age</string>
+    <string name="name_profile" />
+    <string name="name_profile_games">Larissa Nunes</string>
+    <string name="email_games_profile">larissanunes@senai.com</string>
+    <string name="nivel_profile" />
+    <string name="nivel_exibido_profile">Nivel Exibido</string>
+    <string name="jogos_cadastrados">Seus Jogos Cadastrados</string>
+</resources>
