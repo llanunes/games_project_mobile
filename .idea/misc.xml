@@ -6,7 +6,7 @@
         <entry key="app/src/main/res/layout/activity_games_list.xml" value="0.45" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2796296296296296" />
         <entry key="app/src/main/res/layout/activity_register_game.xml" value="0.2796296296296296" />
-        <entry key="app/src/main/res/layout/activity_singup.xml" value="0.2796296296296296" />
+        <entry key="app/src/main/res/layout/activity_singup.xml" value="0.5" />
         <entry key="app/src/main/res/layout/holder_games.xml" value="0.2796296296296296" />
       </map>
     </option>
